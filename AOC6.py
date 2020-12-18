@@ -47,23 +47,3 @@ for i in groups:
 
 print(totalsum)
     
-        
-
-
-
-
-        
-
-    
-        
-
-
-
-
-
-
-
-
- 
-      
-
